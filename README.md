@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Assembly-333333?logo=asm&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20API-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kernel-101010?logo=linux&logoColor=white" />
 </p>
 
 ---
